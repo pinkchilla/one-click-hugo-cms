@@ -1,5 +1,5 @@
 ---
-title: "Schnaki's great coffee with a conscience"
+title: "Schnaki's top great coffee  with a conscience"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
