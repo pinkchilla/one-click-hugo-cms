@@ -1,6 +1,6 @@
 ---
-title: "Schnaki's top great coffee  with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Schnaki's top great coffee \ with a conscience"
+subtitle: Support uor sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
