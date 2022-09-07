@@ -1,5 +1,5 @@
 ---
-title: "Schnaki's super wow coffee \ with a conscience"
+title: "Schnaki's super wow coffee \ with a mega conscience"
 subtitle: Support our sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
