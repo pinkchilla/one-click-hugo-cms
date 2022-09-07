@@ -1,6 +1,6 @@
 ---
 title: "Schnaki's super wow coffee \ with a mega conscience"
-subtitle: Support our sustainable farming while enjoying a cup
+subtitle: Support our sustainable farming while enjoying a cup or two
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
